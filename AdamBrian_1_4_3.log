@@ -1,0 +1,207 @@
+# IPython log file
+
+%run "c:\users\adamp\appdata\local\temp\tmpipier_.py"
+%run "c:\users\adamp\appdata\local\temp\tmpfssipj.py"
+%run "c:\users\adamp\appdata\local\temp\tmpwgtt99.py"
+%run "c:\users\adamp\appdata\local\temp\tmpkseocy.py"
+%run "c:\users\adamp\appdata\local\temp\tmpv6puiu.py"
+%cd "C:\Users\adamp\Desktop\Python\PLTW-1.4.2"
+%logstart -ort AdamBrian_1_4_2.log
+%run "c:\users\adamp\appdata\local\temp\tmpc6y6ix.py"
+%run "c:\users\adamp\appdata\local\temp\tmpvrszsf.py"
+%run "c:\users\adamp\appdata\local\temp\tmppwntor.py"
+%run "c:\users\adamp\appdata\local\temp\tmpcagipm.py"
+%run "c:\users\adamp\appdata\local\temp\tmpfrcnks.py"
+%run "c:\users\adamp\appdata\local\temp\tmpqxzwhf.py"
+%run "c:\users\adamp\appdata\local\temp\tmpp6lloh.py"
+%run "c:\users\adamp\appdata\local\temp\tmpw5nsph.py"
+%run "c:\users\adamp\appdata\local\temp\tmpjkpy1z.py"
+%run "c:\users\adamp\appdata\local\temp\tmpwwo9mw.py"
+%run "c:\users\adamp\appdata\local\temp\tmpc0ayap.py"
+%run "c:\users\adamp\appdata\local\temp\tmprg0sra.py"
+%run "c:\users\adamp\appdata\local\temp\tmpjx1hmr.py"
+%run "c:\users\adamp\appdata\local\temp\tmpdd5kpk.py"
+%run "c:\users\adamp\appdata\local\temp\tmpep9qvi.py"
+%run "c:\users\adamp\appdata\local\temp\tmpimdmmt.py"
+%run "c:\users\adamp\appdata\local\temp\tmpcnqr85.py"
+%run "c:\users\adamp\appdata\local\temp\tmpnzwv1w.py"
+%run "c:\users\adamp\appdata\local\temp\tmpev8uyh.py"
+%run "c:\users\adamp\appdata\local\temp\tmp_bif4y.py"
+%run "c:\users\adamp\appdata\local\temp\tmp2bsajy.py"
+ax[0].imshow(img)
+#[Out]# <matplotlib.image.AxesImage object at 0x000002300D6B4B70>
+fig.canvas.draw()
+fig.canvas.draw(40, 20)
+fig.canvas.draw(40)
+fig.canvas.draw(4)
+canvas.draw(4)
+ax[0].set_xlim(0, 15)
+#[Out]# (0, 15)
+fig.canvas.draw()
+ax[0].imshow(img)
+#[Out]# <matplotlib.image.AxesImage object at 0x000002300EFD3780>
+fig.canvas.draw()
+fig.show()
+fig.show(img)
+%run "c:\users\adamp\appdata\local\temp\tmpz7wsol.py"
+%run "c:\users\adamp\appdata\local\temp\tmpurqu5w.py"
+ax[0].set_xlim(0, 15)
+#[Out]# (0, 15)
+ax[0].set_xlim(80, 15)
+#[Out]# (80, 15)
+ax[0].set_xlim(15, 80)
+#[Out]# (15, 80)
+ax[0].set_xlim(10, 10)
+#[Out]# (9.99, 10.01)
+ax[0].set_xlim(10, 20)
+#[Out]# (10, 20)
+ax[0].set_xlim(10, 30)
+#[Out]# (10, 30)
+ax[0].set_xlim(50, 30)
+#[Out]# (50, 30)
+ax[0].set_xlim(5, 30)
+#[Out]# (5, 30)
+ax[0].set_ylim(5, 30)
+#[Out]# (5, 30)
+ax[0].set_ylim(10, 30)
+#[Out]# (10, 30)
+ax[0].set_ylim(10, 15)
+#[Out]# (10, 15)
+50
+#[Out]# 50
+ax[0].set_ylim(10, 50)
+#[Out]# (10, 50)
+ax[1].set_xlabel('x axis')
+#[Out]# <matplotlib.text.Text object at 0x000002300BC5BEF0>
+ax[1].set_label('y axis')
+ax[1].set_ylabel('y axis')
+#[Out]# <matplotlib.text.Text object at 0x000002300BC6B5F8>
+%run "c:\users\adamp\appdata\local\temp\tmppjo1ad.py"
+%run "c:\users\adamp\appdata\local\temp\tmptddcah.py"
+ax[0].set_xlim(5, 30)
+#[Out]# (5, 30)
+ax[0].set_ylim(10, 50)
+#[Out]# (10, 50)
+ax[1].set_ylabel('y axis')
+#[Out]# <matplotlib.text.Text object at 0x000002300B89FE48>
+ax[0].set_ylim(10, 50)
+#[Out]# (10, 50)
+ax[1].set_xlabel('x axis')
+#[Out]# <matplotlib.text.Text object at 0x000002300BF3A630>
+ax[1].set_xlim(30, 31)
+#[Out]# (30, 31)
+ax[1].set_xlim()
+#[Out]# (30.0, 31.0)
+ax[1].set_xlim(0, 0)
+#[Out]# (-0.001, 0.001)
+ax[1].set_xlim(100, 100)
+#[Out]# (99.9, 100.1)
+ax[1].set_xlim(10, 10)
+#[Out]# (9.99, 10.01)
+ax[0].set_xlim(5, 30)
+#[Out]# (5, 30)
+ax[0].set_xlim(15, 10)
+#[Out]# (15, 10)
+ax[1].set_xlim(15, 10)
+#[Out]# (15, 10)
+ax[1].set_xlim(15, 100)
+#[Out]# (15, 100)
+ax[1].set_xlim(15, 46)
+#[Out]# (15, 46)
+ax[1].set_ylim(24, 46)
+#[Out]# (24, 46)
+ax[0].set_ylim(31, 37)
+#[Out]# (31, 37)
+ax[0].set_ylim(31, 27)
+#[Out]# (31, 27)
+ax[0].set_ylim(31, 60)
+#[Out]# (31, 60)
+ax[1].set_ylim(24, 40)
+#[Out]# (24, 40)
+ax[0].set_ylim(31, 40)
+#[Out]# (31, 40)
+ax[0].set_xlim(31, 40)
+#[Out]# (31, 40)
+ax[2].set_xlim(60, 25)
+#[Out]# (60, 25)
+ax[2].set_ylim(90, 60)
+#[Out]# (90, 60)
+%run "c:\users\adamp\appdata\local\temp\tmpw3rgor.py"
+%run "c:\users\adamp\appdata\local\temp\tmp0skik_.py"
+plot(220, 380, 'ro')
+#[Out]# [<matplotlib.lines.Line2D object at 0x000002300BF9AC18>]
+plot(220, 37, 'ro')
+#[Out]# [<matplotlib.lines.Line2D object at 0x000002300BF89710>]
+plot(220, 370, 'ro')
+#[Out]# [<matplotlib.lines.Line2D object at 0x000002300BF89668>]
+plot(220, 350, 'ro')
+#[Out]# [<matplotlib.lines.Line2D object at 0x000002300BFE9B38>]
+plot(220, 340, 'ro')
+#[Out]# [<matplotlib.lines.Line2D object at 0x000002300BFF74E0>]
+plot(350, 350, 'ro')
+#[Out]# [<matplotlib.lines.Line2D object at 0x000002300BFE90B8>]
+plot(375, 350, 'ro')
+#[Out]# [<matplotlib.lines.Line2D object at 0x000002300BFFC748>]
+%logstop
+# Thu, 16 Nov 2017 18:39:29
+%cd "C:\Users\adamp\Desktop\Python\PLTW-1.4.3"# Thu, 16 Nov 2017 18:39:42
+type(img)
+#[Out]# numpy.ndarray
+# Thu, 16 Nov 2017 18:40:34
+img
+#[Out]# array([[[ 99, 125, 116],
+#[Out]#         [ 98, 124, 115],
+#[Out]#         [ 96, 121, 115],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        [[ 99, 125, 116],
+#[Out]#         [ 95, 120, 114],
+#[Out]#         [100, 125, 119],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        [[102, 129, 122],
+#[Out]#         [ 94, 121, 114],
+#[Out]#         [ 97, 124, 119],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        ..., 
+#[Out]#        [[ 33,  33,  33],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         [ 33,  33,  35],
+#[Out]#         ..., 
+#[Out]#         [148, 124,  96],
+#[Out]#         [142, 118,  90],
+#[Out]#         [146, 122,  94]],
+#[Out]# 
+#[Out]#        [[ 27,  27,  27],
+#[Out]#         [ 29,  29,  29],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         ..., 
+#[Out]#         [144, 120,  92],
+#[Out]#         [146, 122,  94],
+#[Out]#         [150, 126,  98]],
+#[Out]# 
+#[Out]#        [[ 30,  30,  30],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         [ 35,  35,  35],
+#[Out]#         ..., 
+#[Out]#         [143, 119,  91],
+#[Out]#         [150, 126,  98],
+#[Out]#         [147, 123,  95]]], dtype=uint8)
+# Thu, 16 Nov 2017 18:41:10
+len(img)
+#[Out]# 960
+# Thu, 16 Nov 2017 18:41:29
+len(img[0])
+#[Out]# 584
+# Thu, 16 Nov 2017 18:42:39
+%run "c:\users\adamp\appdata\local\temp\tmp_zw8jh.py"

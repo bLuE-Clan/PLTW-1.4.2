@@ -1,0 +1,204 @@
+# IPython log file
+
+%run "c:\users\adamp\appdata\local\temp\tmpipier_.py"
+%run "c:\users\adamp\appdata\local\temp\tmpfssipj.py"
+%run "c:\users\adamp\appdata\local\temp\tmpwgtt99.py"
+%run "c:\users\adamp\appdata\local\temp\tmpkseocy.py"
+%run "c:\users\adamp\appdata\local\temp\tmpv6puiu.py"
+%cd "C:\Users\adamp\Desktop\Python\PLTW-1.4.2"
+# Thu, 16 Nov 2017 15:53:28
+%run "c:\users\adamp\appdata\local\temp\tmpc6y6ix.py"# Thu, 16 Nov 2017 15:57:59
+%run "c:\users\adamp\appdata\local\temp\tmpvrszsf.py"# Thu, 16 Nov 2017 15:58:09
+%run "c:\users\adamp\appdata\local\temp\tmppwntor.py"# Thu, 16 Nov 2017 16:00:09
+%run "c:\users\adamp\appdata\local\temp\tmpcagipm.py"# Thu, 16 Nov 2017 16:00:36
+%run "c:\users\adamp\appdata\local\temp\tmpfrcnks.py"# Thu, 16 Nov 2017 16:01:10
+%run "c:\users\adamp\appdata\local\temp\tmpqxzwhf.py"# Thu, 16 Nov 2017 16:01:23
+%run "c:\users\adamp\appdata\local\temp\tmpp6lloh.py"# Thu, 16 Nov 2017 16:02:20
+%run "c:\users\adamp\appdata\local\temp\tmpw5nsph.py"# Thu, 16 Nov 2017 16:02:32
+%run "c:\users\adamp\appdata\local\temp\tmpjkpy1z.py"# Thu, 16 Nov 2017 16:02:40
+%run "c:\users\adamp\appdata\local\temp\tmpwwo9mw.py"# Thu, 16 Nov 2017 16:03:29
+%run "c:\users\adamp\appdata\local\temp\tmpc0ayap.py"# Thu, 16 Nov 2017 16:05:40
+%run "c:\users\adamp\appdata\local\temp\tmprg0sra.py"# Thu, 16 Nov 2017 16:13:34
+%run "c:\users\adamp\appdata\local\temp\tmpjx1hmr.py"# Thu, 16 Nov 2017 16:14:06
+%run "c:\users\adamp\appdata\local\temp\tmpdd5kpk.py"# Thu, 16 Nov 2017 16:14:28
+%run "c:\users\adamp\appdata\local\temp\tmpep9qvi.py"# Thu, 16 Nov 2017 16:21:49
+%run "c:\users\adamp\appdata\local\temp\tmpimdmmt.py"# Thu, 16 Nov 2017 16:22:25
+%run "c:\users\adamp\appdata\local\temp\tmpcnqr85.py"# Thu, 16 Nov 2017 16:24:59
+%run "c:\users\adamp\appdata\local\temp\tmpnzwv1w.py"# Thu, 16 Nov 2017 16:25:21
+%run "c:\users\adamp\appdata\local\temp\tmpev8uyh.py"# Thu, 16 Nov 2017 16:25:58
+%run "c:\users\adamp\appdata\local\temp\tmp_bif4y.py"# Thu, 16 Nov 2017 16:26:13
+%run "c:\users\adamp\appdata\local\temp\tmp2bsajy.py"# Thu, 16 Nov 2017 16:33:10
+ax[0].imshow(img)
+#[Out]# <matplotlib.image.AxesImage at 0x2300d6b4b70>
+# Thu, 16 Nov 2017 16:33:33
+fig.canvas.draw()
+# Thu, 16 Nov 2017 16:33:52
+fig.canvas.draw(40, 20)
+# Thu, 16 Nov 2017 16:34:00
+fig.canvas.draw(40)
+# Thu, 16 Nov 2017 16:34:05
+fig.canvas.draw(4)
+# Thu, 16 Nov 2017 16:34:21
+canvas.draw(4)
+# Thu, 16 Nov 2017 16:39:19
+ax[0].set_xlim(0, 15)
+#[Out]# (0, 15)
+# Thu, 16 Nov 2017 16:39:30
+fig.canvas.draw()
+# Thu, 16 Nov 2017 16:40:12
+ax[0].imshow(img)
+#[Out]# <matplotlib.image.AxesImage at 0x2300efd3780>
+# Thu, 16 Nov 2017 16:40:15
+fig.canvas.draw()
+# Thu, 16 Nov 2017 16:40:28
+fig.show()
+# Thu, 16 Nov 2017 16:40:54
+fig.show(img)
+# Thu, 16 Nov 2017 16:41:01
+%run "c:\users\adamp\appdata\local\temp\tmpz7wsol.py"# Thu, 16 Nov 2017 16:41:09
+%run "c:\users\adamp\appdata\local\temp\tmpurqu5w.py"# Thu, 16 Nov 2017 16:42:25
+ax[0].set_xlim(0, 15)
+#[Out]# (0, 15)
+# Thu, 16 Nov 2017 16:42:38
+ax[0].set_xlim(80, 15)
+#[Out]# (80, 15)
+# Thu, 16 Nov 2017 16:42:50
+ax[0].set_xlim(15, 80)
+#[Out]# (15, 80)
+# Thu, 16 Nov 2017 16:43:05
+ax[0].set_xlim(10, 10)
+#[Out]# (9.99, 10.01)
+# Thu, 16 Nov 2017 16:43:16
+ax[0].set_xlim(10, 20)
+#[Out]# (10, 20)
+# Thu, 16 Nov 2017 16:43:22
+ax[0].set_xlim(10, 30)
+#[Out]# (10, 30)
+# Thu, 16 Nov 2017 16:43:29
+ax[0].set_xlim(50, 30)
+#[Out]# (50, 30)
+# Thu, 16 Nov 2017 16:43:33
+ax[0].set_xlim(5, 30)
+#[Out]# (5, 30)
+# Thu, 16 Nov 2017 16:44:02
+ax[0].set_ylim(5, 30)
+#[Out]# (5, 30)
+# Thu, 16 Nov 2017 16:44:10
+ax[0].set_ylim(10, 30)
+#[Out]# (10, 30)
+# Thu, 16 Nov 2017 16:44:15
+ax[0].set_ylim(10, 15)
+#[Out]# (10, 15)
+# Thu, 16 Nov 2017 16:44:18
+50
+#[Out]# 50
+# Thu, 16 Nov 2017 16:44:25
+ax[0].set_ylim(10, 50)
+#[Out]# (10, 50)
+# Thu, 16 Nov 2017 16:45:51
+ax[1].set_xlabel('x axis')
+#[Out]# <matplotlib.text.Text at 0x2300bc5bef0>
+# Thu, 16 Nov 2017 16:46:01
+ax[1].set_label('y axis')
+# Thu, 16 Nov 2017 16:46:08
+ax[1].set_ylabel('y axis')
+#[Out]# <matplotlib.text.Text at 0x2300bc6b5f8>
+# Thu, 16 Nov 2017 16:46:28
+%run "c:\users\adamp\appdata\local\temp\tmppjo1ad.py"# Thu, 16 Nov 2017 16:46:43
+%run "c:\users\adamp\appdata\local\temp\tmptddcah.py"# Thu, 16 Nov 2017 16:46:58
+ax[0].set_xlim(5, 30)
+#[Out]# (5, 30)
+# Thu, 16 Nov 2017 16:47:08
+ax[0].set_ylim(10, 50)
+#[Out]# (10, 50)
+# Thu, 16 Nov 2017 16:47:14
+ax[1].set_ylabel('y axis')
+#[Out]# <matplotlib.text.Text at 0x2300b89fe48>
+# Thu, 16 Nov 2017 16:47:16
+ax[0].set_ylim(10, 50)
+#[Out]# (10, 50)
+# Thu, 16 Nov 2017 16:47:22
+ax[1].set_xlabel('x axis')
+#[Out]# <matplotlib.text.Text at 0x2300bf3a630>
+# Thu, 16 Nov 2017 16:47:51
+ax[1].set_xlim(30, 31)
+#[Out]# (30, 31)
+# Thu, 16 Nov 2017 16:48:04
+ax[1].set_xlim()
+#[Out]# (30.0, 31.0)
+# Thu, 16 Nov 2017 16:48:12
+ax[1].set_xlim(0, 0)
+#[Out]# (-0.001, 0.001)
+# Thu, 16 Nov 2017 16:48:20
+ax[1].set_xlim(100, 100)
+#[Out]# (99.9, 100.1)
+# Thu, 16 Nov 2017 16:48:29
+ax[1].set_xlim(10, 10)
+#[Out]# (9.99, 10.01)
+# Thu, 16 Nov 2017 16:48:41
+ax[0].set_xlim(5, 30)
+#[Out]# (5, 30)
+# Thu, 16 Nov 2017 16:48:49
+ax[0].set_xlim(15, 10)
+#[Out]# (15, 10)
+# Thu, 16 Nov 2017 16:48:58
+ax[1].set_xlim(15, 10)
+#[Out]# (15, 10)
+# Thu, 16 Nov 2017 16:49:06
+ax[1].set_xlim(15, 100)
+#[Out]# (15, 100)
+# Thu, 16 Nov 2017 16:49:19
+ax[1].set_xlim(15, 46)
+#[Out]# (15, 46)
+# Thu, 16 Nov 2017 16:49:36
+ax[1].set_ylim(24, 46)
+#[Out]# (24, 46)
+# Thu, 16 Nov 2017 16:50:02
+ax[0].set_ylim(31, 37)
+#[Out]# (31, 37)
+# Thu, 16 Nov 2017 16:50:16
+ax[0].set_ylim(31, 27)
+#[Out]# (31, 27)
+# Thu, 16 Nov 2017 16:50:25
+ax[0].set_ylim(31, 60)
+#[Out]# (31, 60)
+# Thu, 16 Nov 2017 16:50:32
+ax[1].set_ylim(24, 40)
+#[Out]# (24, 40)
+# Thu, 16 Nov 2017 16:50:38
+ax[0].set_ylim(31, 40)
+#[Out]# (31, 40)
+# Thu, 16 Nov 2017 16:50:50
+ax[0].set_xlim(31, 40)
+#[Out]# (31, 40)
+# Thu, 16 Nov 2017 16:51:19
+ax[2].set_xlim(60, 25)
+#[Out]# (60, 25)
+# Thu, 16 Nov 2017 16:51:38
+ax[2].set_ylim(90, 60)
+#[Out]# (90, 60)
+# Thu, 16 Nov 2017 16:53:39
+%run "c:\users\adamp\appdata\local\temp\tmpw3rgor.py"# Thu, 16 Nov 2017 16:53:50
+%run "c:\users\adamp\appdata\local\temp\tmp0skik_.py"# Thu, 16 Nov 2017 16:54:35
+plot(220, 380, 'ro')
+#[Out]# [<matplotlib.lines.Line2D at 0x2300bf9ac18>]
+# Thu, 16 Nov 2017 16:54:42
+plot(220, 37, 'ro')
+#[Out]# [<matplotlib.lines.Line2D at 0x2300bf89710>]
+# Thu, 16 Nov 2017 16:54:48
+plot(220, 370, 'ro')
+#[Out]# [<matplotlib.lines.Line2D at 0x2300bf89668>]
+# Thu, 16 Nov 2017 16:55:04
+plot(220, 350, 'ro')
+#[Out]# [<matplotlib.lines.Line2D at 0x2300bfe9b38>]
+# Thu, 16 Nov 2017 16:55:10
+plot(220, 340, 'ro')
+#[Out]# [<matplotlib.lines.Line2D at 0x2300bff74e0>]
+# Thu, 16 Nov 2017 16:55:38
+plot(350, 350, 'ro')
+#[Out]# [<matplotlib.lines.Line2D at 0x2300bfe90b8>]
+# Thu, 16 Nov 2017 16:55:47
+plot(375, 350, 'ro')
+#[Out]# [<matplotlib.lines.Line2D at 0x2300bffc748>]
+# Thu, 16 Nov 2017 16:57:31
+%logstop

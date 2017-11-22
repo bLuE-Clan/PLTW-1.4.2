@@ -1,0 +1,18 @@
+1.4.2
+
+place picture in the directory that it wants 
+
+part 2
+
+a: 286, 405
+b: 60, 41
+
+Conclusion Questions
+1) Absolute filename is the file name with the directiory included so you find the absolute file, 
+	relative filenames is just the files name with no destination
+	
+2) An object can be a variable, a data structure, function, or a method.
+
+3) A method is the behavior of the object, and the properties represent the data of the object.
+
+4) It depends on the method that you call upon the object because the method defines what the object will do.
